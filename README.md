@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amotivv-cloudflare-browser-rendering-mcp-badge.png)](https://mseep.ai/app/amotivv-cloudflare-browser-rendering-mcp)
+
 # Cloudflare Browser Rendering MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@amotivv/cloudflare-browser-rendering-mcp)](https://smithery.ai/server/@amotivv/cloudflare-browser-rendering-mcp)
